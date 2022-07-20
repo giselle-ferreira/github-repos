@@ -9,11 +9,6 @@ Project to search Github Repos, in React, developed during the classes of Digita
 
 <br/>
 
->## Deploy
-<i>in progress...</i>
-
-<br/>
-
 >## Technologies 🧰
 
 <p align="left">
